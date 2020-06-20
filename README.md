@@ -12,7 +12,7 @@ very common (to date) convention of a default `master` branch.
 
 To change the default branch, I first clone to my local machine
 ```
-$ git clone git@github.com:adam-m-jcbs/test_repo.git
+$ git clone git@github.com:adam-m-jcbs/bye_master.git
 ```
 
 Now I rename the local version of the branch (this command applies to the
