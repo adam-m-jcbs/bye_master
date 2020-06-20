@@ -21,7 +21,7 @@ current branch you are on, in this case `master`)
 git branch -m main
 ```
 
-I now push this renamed branch to GitHub and tell `git` that our now upstream
+I now push this renamed branch to GitHub and tell `git` that our new upstream
 branch is now `main`.  You will get an error, but that's OK
 ```
 git push origin :master main
