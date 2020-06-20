@@ -41,5 +41,7 @@ Finally, delete the now-irrelevant `master` branch
 git push origin --delete master
 ```
 
+I hope this is helpful, and if anything doesn't play out as you expect, please do file an issue!
+
 This guide made use of [this helpful
 tutorial](https://www.hostinger.com/tutorials/how-to-rename-a-git-branch/).
